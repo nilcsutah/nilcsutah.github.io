@@ -489,7 +489,7 @@ a {
   text-decoration: none;
  }
 
-/*a[href$=".pdf"]{
+a[href$=".pdf"]:after{
 	background-image: url(images/pdf-icon.png);
 	background-position: center left;
 	background-repeat: no-repeat;
@@ -497,4 +497,4 @@ a {
 	height: 1px;
 	display: inline-block;
 	padding-top: 0px;
-}*/
+}
