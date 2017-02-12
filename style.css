@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #ffffff; font-family: 'Inconsolata', helvetica, arial, sans-serif; font-size: 14px; color: #212F3D;}
+html, body {background: #ffffff; font-family: 'Roboto', helvetica, arial, sans-serif; font-size: 14px; color: #212F3D;}
 
 .clear {clear: both;}
 
@@ -386,7 +386,7 @@ strong {
   /* color: #333; 
   font-size: 14.0px; */
   font-weight: 600;
-  font-family: 'Inconsolata', Helvetica, Arial, sans-serif;
+  font-family: 'Roboto', Helvetica, Arial, sans-serif;
   text-decoration: none;
  }
 
