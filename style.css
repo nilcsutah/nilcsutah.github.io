@@ -383,8 +383,8 @@ authorlist {
 	font-size: 1.0em;
 }
 strong {
-  /* color: #333; */
-  font-size: 14.0px;
+  /* color: #333; 
+  font-size: 14.0px; */
   font-weight: 600;
   font-family: 'Roboto', Helvetica, Arial, sans-serif;
   text-decoration: none;
