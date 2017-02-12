@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #ffffff; font-family: 'Ubuntu', helvetica, arial, sans-serif; font-size: 16px; color: #212F3D;}
+html, body {background: #ffffff; font-family: 'Inconsolata', helvetica, arial, sans-serif; font-size: 14px; color: #212F3D;}
 
 .clear {clear: both;}
 
