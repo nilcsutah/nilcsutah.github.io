@@ -130,7 +130,13 @@ section:last-child {
 .sectionContent {
 	margin-top: 8px;
 	float: left;
-	width: 80%;
+	width: 100%;
+}
+
+.sectionContentNarrow {
+	margin-top: 8px;
+	float: left;
+	width: 90%;
 }
 
 .sectionTitle h1 {
