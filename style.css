@@ -32,7 +32,7 @@ p {
 .mainDetails {
 	padding: 25px 35px;
 	border-bottom: 2px solid #EBF5FB;
-#	background: #ededed;
+	background: #ededed;
 	background: #F4F6F7
 }
 
@@ -130,7 +130,7 @@ section:last-child {
 .sectionContent {
 	margin-top: 8px;
 	float: left;
-	width: 100%;
+	width: 80%;
 }
 
 .sectionTitle h1 {
