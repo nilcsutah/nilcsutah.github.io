@@ -388,6 +388,11 @@ authorlist {
 	/*color: #111;*/
 	font-size: 0.9em;
 }
+
+venue {
+	font-size:0.9em;
+}
+
 strong {
   /* color: #333; 
   font-size: 14.0px; */
