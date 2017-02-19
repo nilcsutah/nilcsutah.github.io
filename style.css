@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #ffffff; font-family: 'Nunito', helvetica, arial, sans-serif; font-size: 18px; color: #212F3D;}
+html, body {background: #ffffff; font-family: 'Nunito', helvetica, arial, sans-serif; font-size: 16px; color: #212F3D;}
 
 .clear {clear: both;}
 
@@ -39,7 +39,7 @@ p {
 #name h1 {
 	font-size: 1.6em;
 	font-weight: 700;
-	font-family: 'sans-serif', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 	margin-bottom: -6px;
 }
 
@@ -47,7 +47,7 @@ p {
 	font-size: 1em;
 	margin-left: 2px;
 	margin-top: 10px;
-	font-family: 'sans-serif', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 }
 
 #name h3 {
@@ -55,7 +55,7 @@ p {
 	text-decoration: none;
 	margin-top: 12px;
 	margin-left: 2px;
-	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 }
 
 #mainArea {
@@ -140,19 +140,19 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'sans-serif', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 	#font-style: italic;
 	font-size: 1.10em;
 	color: #00000;
 }
 .sectionTitle h2 {
-	font-family: 'sans-serif', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 	#font-style: italic;
 	font-size: 0.9em;
 	color: #00000;
 }
 .sectionContent h2 {
-	font-family: 'sans-serif', Helvetica, Arial, sans-serif;
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
 	font-size: 0.6em;
 	font-style: italic;
 	margin-bottom: 6px;
@@ -396,8 +396,8 @@ venue {
 strong {
   /* color: #333; 
   font-size: 14.0px; */
-  font-weight: 600;
-  font-family: 'Roboto', Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-family: 'Nunito', Helvetica, Arial, sans-serif;
   text-decoration: none;
  }
 
