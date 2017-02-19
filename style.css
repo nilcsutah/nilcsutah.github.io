@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #ffffff; font-family: 'Nunito', helvetica, arial, sans-serif; font-size: 16px; color: #212F3D;}
+html, body {background: #ffffff; font-family: 'Nunito', helvetica, arial, sans-serif; font-size: 18px; color: #212F3D;}
 
 .clear {clear: both;}
 
@@ -396,7 +396,7 @@ venue {
 strong {
   /* color: #333; 
   font-size: 14.0px; */
-  font-weight: 900;
+  font-weight: 600;
   font-family: 'Nunito', Helvetica, Arial, sans-serif;
   text-decoration: none;
  }
