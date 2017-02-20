@@ -108,10 +108,11 @@ p {
 	color: #cf8a05;
 }
 
-
 section {
+	float: left ;
 	border-top: 1px solid #dedede;
 	padding: 20px 0 0;
+	width:100%;
 }
 
 section:first-child {
@@ -509,3 +510,36 @@ a[href$=".pdf"]:after{
 	display: inline-block;
 	padding-top: 0px;
 }
+
+aside{
+	float: right;
+	border-top: 1px solid #dedede;
+	padding: 20px 0 0;
+	width: 0%;
+}
+
+.asideTitle {
+	float: left;
+	width: 40%;
+}
+
+.asideContent {
+	margin-top: 8px;
+	float: left;
+	width: 100%;
+}
+
+.asideTitle h1 {
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
+	#font-style: italic;
+	font-size: 1.10em;
+	color: #00000;
+}
+
+.asideContent h2 {
+	font-family: 'Nunito', Helvetica, Arial, sans-serif;
+	font-size: 0.6em;
+	font-style: italic;
+	margin-bottom: 6px;
+}
+
