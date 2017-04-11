@@ -422,12 +422,20 @@ highlight{
   border-radius: .25em;
 }
 
-.label-hpca{
+.label-sigmetrics{
   background-color: #1D89A2;;
+}
+.label-sigmetrics[href]:hover,
+.label-sigmetrics[href]:focus {
+  background-color: #239FBB ;
+}
+
+.label-hpca{
+  background-color: #000080;;
 }
 .label-hpca[href]:hover,
 .label-hpca[href]:focus {
-  background-color: #239FBB ;
+  background-color: #4169E1 ;
 }
 
 .label-micro{
@@ -439,11 +447,11 @@ highlight{
 }
 
 .label-sc{
-  background-color: #A04000;;
+  background-color: #800000;;
 }
 .label-sc[href]:hover,
 .label-sc[href]:focus {
-  background-color: #E59866;
+  background-color: #E9967A;
 }
 
 .label-ispass{
@@ -464,19 +472,19 @@ highlight{
 }
 
 .label-asplos{
-  background-color: #BE0D07;;
+  background-color: #2F4F4F;;
 }
 .label-asplos[href]:hover,
 .label-asplos[href]:focus {
-  background-color: #FA645C;
+  background-color: #778899;
 }
 
 .label-memsys{
-  background-color: #A39C64;;
+  background-color: #FFDAB9;;
 }
 .label-memsys[href]:hover,
 .label-memsys[href]:focus {
-  background-color: #AAAAA9;
+  background-color: #FFEFD5;
 }
 
 .label-others{
