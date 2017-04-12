@@ -423,15 +423,15 @@ highlight{
 }
 
 .label-sigmetrics{
-  background-color: #1D89A2;;
+  background-color: #2F4F4F;;
 }
 .label-sigmetrics[href]:hover,
 .label-sigmetrics[href]:focus {
-  background-color: #239FBB ;
+  background-color: #778899 ;
 }
 
 .label-hpca{
-  background-color: #000080;;
+  background-color: #191970;;
 }
 .label-hpca[href]:hover,
 .label-hpca[href]:focus {
@@ -439,7 +439,7 @@ highlight{
 }
 
 .label-micro{
-  background-color: #1E8449  ;;
+  background-color: #006400  ;;
 }
 .label-micro[href]:hover,
 .label-micro[href]:focus {
@@ -472,15 +472,15 @@ highlight{
 }
 
 .label-asplos{
-  background-color: #2F4F4F;;
+  background-color: #FFC300;;
 }
 .label-asplos[href]:hover,
 .label-asplos[href]:focus {
-  background-color: #778899;
+  background-color: #FFFACD;
 }
 
 .label-memsys{
-  background-color: #FFDAB9;;
+  background-color: #DEB887;;
 }
 .label-memsys[href]:hover,
 .label-memsys[href]:focus {
@@ -488,7 +488,7 @@ highlight{
 }
 
 .label-others{
-  background-color: #858A9B;;
+  background-color: #778899;;
 }
 .label-others[href]:hover,
 .label-others[href]:focus {
