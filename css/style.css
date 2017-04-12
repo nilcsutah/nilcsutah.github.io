@@ -403,8 +403,10 @@ strong {
  }
 
 highlight{
-	color: #306AB4;
-	font-weight: 600;
+	/*color: #306AB4;*/
+	color: DARKRED;
+	font-style: italic;
+	font-weight: 700;
 }
 
 
