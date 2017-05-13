@@ -481,6 +481,14 @@ highlight{
   background-color: #FFFACD;
 }
 
+.label-arxiv{
+  background-color: #32CE5A;;
+}
+.label-arxiv[href]:hover,
+.label-arxiv[href]:focus {
+  background-color: #69D084;
+}
+
 .label-memsys{
   background-color: #DEB887;;
 }
