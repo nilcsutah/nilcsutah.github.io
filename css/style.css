@@ -396,12 +396,22 @@ venue {
 }
 
 strong {
-  /* color: #333; 
-  font-size: 14.0px; */
-  font-weight: 600;
+  /*color: darkgray;*/
+  /*font-size: 14.0px; */
+  font-weight: 300;
   font-family: 'Nunito', Helvetica, Arial, sans-serif;
   text-decoration: none;
  }
+
+link{
+  color: darkblue;
+  /*font-size: 14.0px; */
+  font-weight: 300;
+  font-family: 'Nunito', Helvetica, Arial, sans-serif;
+  text-decoration: none;
+ 
+}
+
 
 highlight{
 	/*color: #306AB4;*/
