@@ -435,6 +435,7 @@ highlight{
   border-radius: .25em;
 }
 
+
 .label-sigmetrics{
   background-color: #2F4F4F;;
 }
@@ -506,6 +507,22 @@ highlight{
 .label-memsys[href]:hover,
 .label-memsys[href]:focus {
   background-color: #FFEFD5;
+}
+
+.label-ics{
+  background-color: #B7118B;;
+}
+.label-ics[href]:hover,
+.label-ics[href]:focus {
+  background-color: #C054A3 ;
+}
+
+.label-ipdps{
+  background-color: #DEB887;;
+}
+.label-ipdps[href]:hover,
+.label-ipdps[href]:focus {
+  background-color: #F0936B ;
 }
 
 .label-others{
