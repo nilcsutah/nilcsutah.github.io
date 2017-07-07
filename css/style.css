@@ -518,12 +518,21 @@ highlight{
 }
 
 .label-ipdps{
-  background-color: #DEB887;;
+  background-color: #F0936B;;
 }
 .label-ipdps[href]:hover,
 .label-ipdps[href]:focus {
-  background-color: #F0936B ;
+  background-color: #DEB887 ;
 }
+
+.label-hpg{
+  background-color: #FF5733;;
+}
+.label-hpg[href]:hover,
+.label-hpg[href]:focus {
+  background-color: #FF8B72 ;
+}
+
 
 .label-others{
   background-color: #778899;;
