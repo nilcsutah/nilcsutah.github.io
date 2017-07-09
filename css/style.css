@@ -391,6 +391,12 @@ authorlist {
 	font-size: 0.9em;
 }
 
+remark {
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+
 venue {
 	font-size:0.9em;
 }
