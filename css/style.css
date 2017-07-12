@@ -539,6 +539,13 @@ highlight{
   background-color: #FF8B72 ;
 }
 
+.label-taco{
+  background-color: #581845;;
+}
+.label-taco[href]:hover,
+.label-taco[href]:focus {
+  background-color: #C4473F ;
+}
 
 .label-others{
   background-color: #778899;;
