@@ -421,7 +421,8 @@ link{
 
 highlight{
 	/*color: #306AB4;*/
-	color: DARKRED;
+	/*color: DARKRED;*/
+	color: #5FD31B
 	font-style: italic;
 	font-weight: 700;
 }
