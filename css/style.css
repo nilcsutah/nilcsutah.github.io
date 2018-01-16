@@ -469,13 +469,11 @@ highlight{
 }
 
 .label-sc{
-  /*background-color: #800000;;*/
-  background-color: #FF8B72 ;
+  background-color: #FF8B72 ;;
 }
 .label-sc[href]:hover,
 .label-sc[href]:focus {
   background-color: #E9967A;
-
 }
 
 .label-ispass{
