@@ -469,7 +469,8 @@ highlight{
 }
 
 .label-sc{
-  background-color: #800000;;
+  background-color: #FF5733;;
+  /*background-color: #800000;;*/
 }
 .label-sc[href]:hover,
 .label-sc[href]:focus {
